@@ -1,0 +1,6 @@
+{
+  "name": "Ghazni Medical Centre (GMC)",
+  "description": "Ghazni Medical Centre (GMC) provides 24/7 emergency medical care, PMDC-verified specialist doctors, ICU, maternity, surgery, and diagnostics under one roof in Terri, Karak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
